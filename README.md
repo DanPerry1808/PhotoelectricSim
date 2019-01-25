@@ -3,10 +3,10 @@ This is a visual simulation of the Photoelectric Effect, written in Python 3 and
 
 # Download and Installation
 ## Download
-To download the program, go to the Releases section of this repo.
+To download the program, go to the Releases section of this repo. There is an executable file for Windows, any other platforms will have to use the Universal version. Note that the universal version requires Python 3 and Pygame as dependencies. The universal version is practically the same as cloning the project via Git.
 ## Running the program (Windows)
 Extract the zip file and run Photoelectric.exe.
-## Running the program (Linux)
+## Running the program (Universal)
 You will need Python 3 and Pygame installed for this to run.
 Extract the zip file, open the folder you extracted it to and open a terminal. Run the command `python3 photoelectric.py`.
 
